@@ -1,4 +1,4 @@
-# cop4520--parallel_primes        Samu Wallace
+# cop4520--parallel_primes        ( Samu Wallace )
 
 
 compilation/execution: 

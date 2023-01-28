@@ -1,9 +1,9 @@
 # cop4520--parallel_primes        ( Samu Wallace )
 
 
-compilation/execution:
-$ g++ threadsieveprime.cpp -o threadsieveprime.exe
-$ threadsieveprime
+compilation/execution: 
+g++ threadsieveprime.cpp -o threadsieveprime.exe 
+threadsieveprime
 
 output will show in primes.txt
 

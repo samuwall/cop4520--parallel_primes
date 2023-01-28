@@ -3,9 +3,10 @@
 
 compilation/execution: 
 
-g++ threadsieveprime.cpp -o threadsieveprime.exe 
+~$ g++ threadsieveprime.cpp -o threadsieveprime.exe 
 
-threadsieveprime
+~$ threadsieveprime
+
 
 output will show in primes.txt
 
